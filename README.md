@@ -1,14 +1,7 @@
-# Data Engineering Foundations
+#  Python Clean Coding
 
-This repository contains my learning journey towards becoming a Data Engineer.
+This repository documents my learning journey for the Python Clean Coding course.
 
-## Learning Tracks
+Here I will keep my personal notes, practice examples, and the course completion certificate.
 
-- Python Fundamentals
-- Python Clean Coding Practices
-- Relational Database & SQL
-- Data Science & Machine Learning
-
-## Goal
-
-Build strong foundations in Python, SQL, and Data Science.
+> **Note:** This repository contains my personal notes and practice for learning purposes.
